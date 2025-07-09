@@ -1,0 +1,19 @@
+{
+  "name": "local-gpt-ui",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "react": "",
+    "react-dom": "",
+    "axios": ""
+  },
+  "devDependencies": {
+    "typescript": "",
+    "vite": "",
+    "@vitejs/plugin-react": ""
+  }
+}
